@@ -1,0 +1,4 @@
+Presentation/
+venv/
+__pycache__/
+*.h5
